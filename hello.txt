@@ -10,6 +10,4 @@ hello, my name is Git
 hello, my name is Git
 hello, my name is Git
 hello, my name is Git
-hello, my name is Git
-
-
+hello, my name is Git master test
